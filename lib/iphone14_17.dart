@@ -8,7 +8,7 @@ class iphone14_17 extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(title: const Text('terms_of_service')),
       body: const Center(
-        child: Text("something"),
+        child: Text("something something"),
       ),
     );
   }
